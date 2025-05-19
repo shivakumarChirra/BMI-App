@@ -39,12 +39,4 @@ A simple and user-friendly Body Mass Index (BMI) calculator built with Swift and
 - Architecture: **MVC**
 - Platform: **iOS**
 
----
-
-### 📌 Make Sure:
-- The `banner.png` file is in the **root of your repository** (same level as `README.md`).
-- Commit both `README.md` and `banner.png` when pushing to GitHub.
-
-Let me know if you'd like the README converted to a downloadable `.md` or `.pdf` file.
-
 
